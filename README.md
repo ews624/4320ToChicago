@@ -26,3 +26,6 @@ Weekend
 
 ## Purpose
 Explore downtown Chicago
+
+#Hotels
+https://github.com/ews624/4320ToChicago/blob/master/Hotels/Hotels.md
